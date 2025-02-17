@@ -1,0 +1,9 @@
+{
+  "account": "horns&hoofs",
+  "login": "h&f",
+  "method": "clients_interests",
+  "arguments": {
+    "client_ids": [],
+    "date": "32.13.2020"
+  }
+}

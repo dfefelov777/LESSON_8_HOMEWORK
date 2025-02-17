@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "response": {
+    "1": ["books", "music"],
+    "2": ["travel", "sports"],
+    "3": ["movies", "tech"]
+  }
+}

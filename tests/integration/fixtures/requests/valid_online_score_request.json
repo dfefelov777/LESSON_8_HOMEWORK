@@ -1,0 +1,13 @@
+{
+  "account": "horns&hoofs",
+  "login": "h&f",
+  "method": "online_score",
+  "arguments": {
+    "phone": "71234567890",
+    "email": "test@example.com",
+    "first_name": "John",
+    "last_name": "Doe",
+    "birthday": "01.01.1990",
+    "gender": 1
+  }
+}

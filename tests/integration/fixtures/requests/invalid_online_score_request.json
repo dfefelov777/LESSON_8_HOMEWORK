@@ -1,0 +1,9 @@
+{
+  "account": "horns&hoofs",
+  "login": "h&f",
+  "method": "online_score",
+  "arguments": {
+    "phone": "notaphone",
+    "email": "testexample.com"
+  }
+}
